@@ -1,7 +1,7 @@
 Hello! My name is Jesus Alberto.
 I am a reckless life-long learner with a college degree of Associate in Health and Safety.
 But I'm in love with technology, so I'm self-taught into Python and its environment.
-My principal skills are related to writing, research, translating, resuming and analytic thinking; but truly, I've always been eager to learn something new and willing to spread my data science skills to all fields, such as back-end programming for web, desktop and mobile.
+My principal skills are related to writing, research, translating, resuming and analytic thinking; but truly, I've always been eager to learn something new and willing to spread my data science skills to all fields, such as full-stack programming for web, desktop and mobile.
 
 Twitter: @_jesusalberto18
 
