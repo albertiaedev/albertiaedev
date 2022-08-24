@@ -32,7 +32,7 @@ In my spare time I like to do Data Science :microscope: and open-source :open_fi
 
 ### :arrow_down: :arrow_down: :arrow_down: DON'T FORGET TO CHECK OUT MY REPOS
 
-DOWN-BELOW-UNDER -U :arrow_heading_down: :arrow_heading_down: :arrow_heading_down:
+### DOWN-BELOW-UNDER -U :arrow_heading_down: :arrow_heading_down: :arrow_heading_down:
 
 ### Then STAR :star2:
 
