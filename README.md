@@ -6,7 +6,9 @@
 
 ## Who am I?
 
-I am a reckless life-long learner with a college degree... (Yes, I know. It's hard to believe but I have one :sunglasses:)
+I am a reckless life-long learner with a college degree... 
+
+(Yes, I know. It's hard to believe but I have one :sunglasses:)
 
 :warning: Bachelor in Occupational Health and Safety :warning:
 
