@@ -6,7 +6,7 @@
 
 ## Who am I?
 
-I am a reckless life-long learner with a college degree... (Yes, it's hard to believe but I have one :sunglasses:)
+I am a reckless life-long learner with a college degree... (Yes, I know. It's hard to believe but I have one :sunglasses:)
 
 :warning: Bachelor in Occupational Health and Safety :warning:
 
@@ -15,9 +15,13 @@ But I'm in love with technology :computer:, so I'm self-taught into Python and i
 ## Skills
 
 In my spare time I like to do Data Science :microscope: and open-source :open_file_folder: 
+
 :panda_face: Pandas
+
 :1234: NumPy
+
 :bar_chart: Matplotlib
+
 :chart_with_downwards_trend: Seaborn
 
 ### Here you can see my favorite languages
@@ -32,7 +36,7 @@ In my spare time I like to do Data Science :microscope: and open-source :open_fi
 
 ### Then FOLLOW ME :octocat:
 
-Peace out :V:
+Peace out :v:
 <!---
 jesusalberto18/jesusalberto18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
