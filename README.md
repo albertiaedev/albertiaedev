@@ -1,6 +1,6 @@
 # Hello :wave: Welcome to my GitHub profile!
 
-## My name is Jesus Alberto :metal:
+### My name is Jesus Alberto :metal:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalberto18&show_icons=true&theme=vue-dark)
 
@@ -36,7 +36,7 @@ In my spare time I like to do Data Science :microscope: and open-source :open_fi
 
 ### Then FOLLOW ME :octocat:
 
-Peace out :v:
+### Peace out :v:
 <!---
 jesusalberto18/jesusalberto18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
