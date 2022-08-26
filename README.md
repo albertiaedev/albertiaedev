@@ -18,19 +18,17 @@ But I'm in love with technology :computer:, so I'm self-taught into Python and i
 
 These guys are my everyday buddies:
 
-### 🗣️ Python
-### 🟢 Django
-### 🟩 Vue.js
+<img src="1.1-python.png" width="250"> <img src="1.2-django.png" width="200"> <img src="1.3-vue.png" width="130">
+
+<img src="2.1-html.png" width="200"> <img src="2.2-css.png" width="150"> <img src="2.3-bootstrap.png" width="200">
+
+<img src="2.4-git.png" width="200"> <img src="2.5-sqlite.png" width="250"> <img src="2.6-postgresql.png" width="222">
 
 Plus, in my spare time I like to do Data Science :microscope: and open-source :open_file_folder: 
 
-### :panda_face: Pandas
+<img src="3.1-pandas.png" width="200"> <img src="3.2-numpy.png" width="200"> <img src="3.3-matplotlib.png" width="200">
 
-### :1234: NumPy
-
-### :bar_chart: Matplotlib
-
-### :chart_with_downwards_trend: Seaborn
+<img src="3.4-seaborn.png" width="200"> <img src="3.5-sklearn.png" width="200"> <img src="3.6-jupyter-notebook.png" width="200">
 
 ## Here you can see my favorite languages
 
