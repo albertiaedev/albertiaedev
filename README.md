@@ -2,7 +2,7 @@
 
 ### My name is Jesus Alberto :metal:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalberto18&show_icons=true&theme=panda)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalberto18&show_icons=true&theme=gotham)
 
 ## Who am I?
 
@@ -18,21 +18,21 @@ But I'm in love with technology :computer:, so I'm self-taught into Python and i
 
 These guys are my everyday buddies:
 
-<img src="1.1-python.png" width="250"> <img src="1.2-django.png" width="200"> <img src="1.3-vue.png" width="130">
+<img src="1.1-python.png" width="120"> <img src="1.2-django.png" width="100"> <img src="1.3-vue.png" width="80">
 
-<img src="2.1-html.png" width="200"> <img src="2.2-css.png" width="150"> <img src="2.3-bootstrap.png" width="200">
+<img src="2.1-html.png" width="100"> <img src="2.2-css.png" width="75"> <img src="2.3-bootstrap.png" width="100">
 
-<img src="2.4-git.png" width="200"> <img src="2.5-sqlite.png" width="250"> <img src="2.6-postgresql.png" width="222">
+<img src="2.4-git.png" width="100"> <img src="2.5-sql.png" width="120"> <img src="2.6-kivy.png" width="100">
 
 Plus, in my spare time I like to do Data Science :microscope: and open-source :open_file_folder: 
 
-<img src="3.1-pandas.png" width="200"> <img src="3.2-numpy.png" width="200"> <img src="3.3-matplotlib.png" width="200">
+<img src="3.1-pandas.png" width="100"> <img src="3.2-numpy.png" width="100"> <img src="3.3-matplotlib.png" width="100">
 
-<img src="3.4-seaborn.png" width="200"> <img src="3.5-sklearn.png" width="200"> <img src="3.6-jupyter-notebook.png" width="200">
+<img src="3.4-seaborn.png" width="100"> <img src="3.5-sklearn.png" width="100"> <img src="3.6-jupyter-notebook.png" width="100">
 
 ## Here you can see my favorite languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalberto18&layout=compact&langs_count=8&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalberto18&layout=compact&langs_count=8&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :arrow_down: DON'T FORGET TO CHECK OUT MY REPOS
 
