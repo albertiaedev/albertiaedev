@@ -12,35 +12,33 @@ I am a reckless life-long learner with a college degree...
 
 :warning: I'm a Bachelor in Occupational Health and Safety :warning:
 
-But I'm in love with technology :computer:, so I'm self-taught into Python and its environment :snake:.
+But I'm in love with technology :computer:, so I'm self-taught into Python and its environment :snake:
 
 ## Skills
 
-This guys are my everyday buddies:
+These guys are my everyday buddies:
 
-<img scr="images-for-readme-tools/1.1-python.png" width="50">
-<img scr="images-for-readme-tools/1.2-django.png" width="50">
-<img scr="images-for-readme-tools/1.3-vue.png" width="50">
+### 🗣️ Python
+### 🟢 Django
+### 🟩 Vue.js
 
+Plus, in my spare time I like to do Data Science :microscope: and open-source :open_file_folder: 
 
+### :panda_face: Pandas
 
-In my spare time I like to do Data Science :microscope: and open-source :open_file_folder: 
+### :1234: NumPy
 
-:panda_face: Pandas
+### :bar_chart: Matplotlib
 
-:1234: NumPy
+### :chart_with_downwards_trend: Seaborn
 
-:bar_chart: Matplotlib
-
-:chart_with_downwards_trend: Seaborn
-
-### Here you can see my favorite languages
+## Here you can see my favorite languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalberto18&layout=compact&langs_count=8&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
-### :arrow_down: :arrow_down: :arrow_down: DON'T FORGET TO CHECK OUT MY REPOS
+### :arrow_down: DON'T FORGET TO CHECK OUT MY REPOS
 
-### DOWN-BELOW-UNDER -U :arrow_heading_down: :arrow_heading_down: :arrow_heading_down:
+### DOWN-BELOW-UNDER -U :arrow_heading_down:
 
 ### Then STAR :star2:
 
