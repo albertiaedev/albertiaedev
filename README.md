@@ -16,6 +16,14 @@ But I'm in love with technology :computer:, so I'm self-taught into Python and i
 
 ## Skills
 
+This guys are my everyday buddies:
+
+<img scr="images-for-readme-tools/1.1-python.png" width="50">
+<img scr="images-for-readme-tools/1.2-django.png" width="50">
+<img scr="images-for-readme-tools/1.3-vue.png" width="50">
+
+
+
 In my spare time I like to do Data Science :microscope: and open-source :open_file_folder: 
 
 :panda_face: Pandas
