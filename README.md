@@ -20,7 +20,9 @@ These guys are my everyday buddies:
 
 <img src="1.1-python.png" width="150"> <img src="1.2-django.png" width="100"> <img src="2.4-git.png" width="80"> <img src="2.5-sql.png" width="150">
 
-<img src="3.1-pandas.png" width="120"> <img src="3.2-numpy.png" width="120"> <img src="3.3-matplotlib.png" width="120"> <img src="3.4-seaborn.png" width="100"> <img src="3.5-sklearn.png" width="100"> <img src="3.6-jupyter-notebook.png" width="80">
+<img src="3.1-pandas.png" width="120"> <img src="3.2-numpy.png" width="120"> <img src="3.3-matplotlib.png" width="120">
+
+<img src="3.4-seaborn.png" width="100"> <img src="3.5-sklearn.png" width="120"> <img src="3.6-jupyter-notebook.png" width="100">
 
 Plus, in my spare time I like to do Data Science :microscope: and open-source :open_file_folder: 
 
