@@ -4,6 +4,8 @@
 
 ![J.A. Hernández's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalberto18&show_icons=true&theme=gotham)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesusalberto18&theme=gotham)](https://git.io/streak-stats)
+
 ## Who am I?
 
 I am a reckless life-long learner with a college degree... 
@@ -13,6 +15,10 @@ I am a reckless life-long learner with a college degree...
 :warning: I'm a Bachelor in Occupational Health and Safety :warning:
 
 But I'm in love with technology :computer:, so I'm self-taught into Python and its environment :snake:
+
+## Here you can see my favorite languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalberto18&layout=compact&langs_count=8&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
@@ -26,21 +32,8 @@ These guys are my everyday buddies:
 
 Plus, in my spare time I like to do Data Science :microscope: and open-source :open_file_folder: 
 
-## Here you can see my favorite languages
+### :arrow_down: DON'T FORGET TO CHECK OUT MY REPOS DOWN HERE :arrow_heading_down:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalberto18&layout=compact&langs_count=8&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-### :arrow_down: DON'T FORGET TO CHECK OUT MY REPOS
-
-### DOWN-BELOW-UNDER -U :arrow_heading_down:
-
-### Then STAR :star2:
-
-### Then FORK :trident:
-
-### Then FOLLOW ME :octocat:
-
-### Peace out :v:
 <!---
 jesusalberto18/jesusalberto18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
