@@ -18,7 +18,7 @@ But I'm in love with technology :computer:, so I'm self-taught into Python and i
 
 ## Here you can see my favorite languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalberto18&layout=compact&langs_count=8&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalberto18&layout=compact&langs_count=9&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
