@@ -22,17 +22,18 @@ But I'm in love with technology :computer:, so I'm self-taught into Python and i
 
 ## Skills
 
+In my spare time I like to do Automation :robot: & Data Science :microscope:
+
 These guys are my everyday buddies:
+<p align="center">
+<img src="1.1-python.png" width="90"> <img src="1.2-django.png" width="60"> <img src="1.4-js.png" width="40"> <img src="1.3-vue.png" width="40"> <img src="2.1-html.png" width="50"> <img src="2.2-css.png" width="40"> <img src="2.3-bootstrap.png" width="50"> <img src="2.4-git.png" width="50">
+</p>
 
-<img src="1.1-python.png" width="150"> <img src="1.2-django.png" width="100"> <img src="2.4-git.png" width="80"> <img src="2.5-sql.png" width="150">
+<p align="center">
+<img src="2.5-sql.png" width="60"> <img src="3.1-pandas.png" width="60"> <img src="3.2-numpy.png" width="60"> <img src="3.3-matplotlib.png" width="60"> <img src="3.4-seaborn.png" width="50"> <img src="3.5-sklearn.png" width="60"> <img src="3.6-jupyter-notebook.png" width="40">
+</p> 
 
-<img src="3.1-pandas.png" width="120"> <img src="3.2-numpy.png" width="120"> <img src="3.3-matplotlib.png" width="120">
-
-<img src="3.4-seaborn.png" width="100"> <img src="3.5-sklearn.png" width="120"> <img src="3.6-jupyter-notebook.png" width="100">
-
-Plus, in my spare time I like to do Data Science :microscope: and open-source :open_file_folder: 
-
-### :arrow_down: DON'T FORGET TO CHECK OUT MY REPOS DOWN HERE :arrow_heading_down:
+### :arrow_down: CHECK OUT DOWN HERE FOR GREAT OPEN SOURCE REPOS :arrow_heading_down:
 
 <!---
 jesusalberto18/jesusalberto18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
