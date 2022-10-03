@@ -14,7 +14,7 @@ I am a reckless life-long learner with a college degree...
 
 :warning: I'm a Bachelor in Occupational Health and Safety :warning:
 
-But I'm in love with technology :computer:, so I'm self-taught into Python and its environment :snake:
+But I'm in love with technology :computer:, so I'm self-taught into programming with Python, JavaScript and the fullstack environment :snake: :nerd_face:
 
 ## Here you can see my favorite languages
 
