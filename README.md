@@ -2,6 +2,12 @@
 
 ### My name is Jesus Alberto :metal:
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=jesusalberto18" alt="https://github.com/jesusalberto18" />
+
+<br>
+
 ![J.A. Hernández's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalberto18&show_icons=true&theme=gotham)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesusalberto18&theme=gotham)](https://git.io/streak-stats)
