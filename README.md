@@ -1,9 +1,7 @@
 # Hello :wave: Welcome to my GitHub profile!
 
 ### My name is Jesus Alberto :metal:
-  
-<br>
-
+ 
 ![J.A. Hernández's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalberto18&show_icons=true&theme=gotham)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesusalberto18&theme=gotham)](https://git.io/streak-stats)
@@ -53,14 +51,16 @@ These guys are my everyday buddies:
 
 <a href="https://github.com/jesusalberto18/Tinder-Bot-Script"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=Tinder-Bot-Script&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Tinder-Bot-Script"></a>
 
-### You can follow me on:
-
 <br>
+
+### You can follow me on:
 
 <a href="https://www.linkedin.com/in/jesusalberto18/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/_jesusalberto18"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-### :arrow_down: CHECK OUT DOWN HERE FOR MORE OPEN SOURCE REPOS :arrow_heading_down:
+### :arrow_down: CHECK OUT MY PINNED FOR MORE OPEN SOURCE REPOS :arrow_heading_down:
+<br>
+<a href="[https://github.com/DenverCoder1?tab=repositories&sort=stargazers](https://github.com/jesusalberto18?tab=repositories)"><img alt="Check out all my repos" title="Check out all my repos" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 <!---
 jesusalberto18/jesusalberto18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
