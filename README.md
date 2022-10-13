@@ -51,6 +51,14 @@ These guys are my everyday buddies:
 
 <a href="https://github.com/jesusalberto18/Tinder-Bot-Script"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=Tinder-Bot-Script&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Tinder-Bot-Script"></a>
 
+### If you like my work, you can sponsor me here:
+
+<a href="https://www.paypal.com/paypalme/j2al444">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+</a>
+
+(Always needed to buy computer setup)
+
 ### You can follow me on:
 
 <a href="https://www.linkedin.com/in/jesusalberto18/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
