@@ -49,7 +49,8 @@ These guys are my everyday buddies:
 
 ### Here's a hint of my work:
 
-<a href="https://github.com/jesusalberto18/Tinder-Bot-Script"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=Tinder-Bot-Script&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Tinder-Bot-Script"></a>
+<a href="https://github.com/jesusalberto18/Business-Data-Analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=Business-Data-Analysis&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Business-Data-Analysis"></a>
+<a href="https://github.com/jesusalberto18/Medical-Data-Analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=Medical-Data-Analysis&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Medical-Data-Analysis"></a>
 
 ### If you like my work, you can sponsor me here:
 
