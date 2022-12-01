@@ -66,7 +66,7 @@ These guys are my everyday buddies:
 
 <a href="https://www.linkedin.com/in/jesusalberto18/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/_jesusalberto18"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/jesusalberto18"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://developers.google.com/profile/u/108022961855055241211"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
