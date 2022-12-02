@@ -14,7 +14,17 @@ I am a reckless life-long learner with a college degree...
 
 :warning: I'm a Bachelor in Occupational Health and Safety :warning:
 
-But I'm in love with technology :computer:, so I'm self-taught into programming with Python, JavaScript and the fullstack environment :snake: :nerd_face:
+My dev motto is:
+
+```
+"A lil bit of frontend here... A lil bit of backend there... Some mobile and AI"
+```
+
+Frontend mostly... :computer:
+
+Backend for open-source... :snake:
+
+But always developing at heart & fun. :nerd_face:
 
 ## Here you can see my favorite languages
 
