@@ -63,8 +63,8 @@ These guys are my everyday buddies:
 
 ### Here's a hint of my work:
 
-<a href="https://github.com/jesusalberto18/Backend_Development"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=Backend_Development&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Backend_Development"></a>
-<a href="https://github.com/jesusalberto18/Automation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=Automation&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Automation"></a>
+<a href="https://github.com/jesusalberto18/wonderful-tasty-recipes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=wonderful-tasty-recipes&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Wonderful Tasty Recipes"></a>
+<a href="https://github.com/jesusalberto18/healthcare-news"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=healthcare-news&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Healthcare News"></a>
 
 ### If you like my work, you can sponsor me here:
 
