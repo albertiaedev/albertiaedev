@@ -57,7 +57,7 @@ These guys are my everyday buddies:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<em>"A lil bit of frontend here... A lil bit of backend there... Some mobile and AI"</em> :smile:
+<strong><em>"A lil bit of frontend here... A lil bit of backend there... Some mobile and AI"</em></strong> :smile:
 
 ### Here's a hint of my work:
 
