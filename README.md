@@ -30,8 +30,6 @@ But always developing at heart & fun. :nerd_face:
 
 ## Skills
 
-In my spare time I like to do Automation :robot: & Data Science :microscope:
-
 These guys are my everyday buddies:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
