@@ -20,7 +20,7 @@ My dev motto is:
 
 Frontend mostly... :computer:
 
-Backend for open-source... :snake:
+Backend for open-source & personal projects... :snake:
 
 But always developing at heart & fun. :nerd_face:
 
