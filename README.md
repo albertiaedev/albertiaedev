@@ -16,9 +16,7 @@ I am a reckless life-long learner with a college degree...
 
 My dev motto is:
 
-```
-"A lil bit of frontend here... A lil bit of backend there... Some mobile and AI"
-```
+<strong><em>"A lil bit of frontend here... A lil bit of backend there... Some mobile and AI"</em></strong>
 
 Frontend mostly... :computer:
 
