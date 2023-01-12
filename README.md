@@ -10,9 +10,9 @@
 
 I am a reckless life-long learner with a college degree... 
 
-(Yes, I know. It's hard to believe but I have one :sunglasses:)
+I prefer to work on the Frontend, where I shine the most, but I also have very good skills on the Backend and Mobile Development.
 
-:warning: I'm a Bachelor in Occupational Health and Safety :warning:
+I am a self-taught developer, with a previous background in healthcare, which has helped develop the discipline needed to face any challenges that come with this new dare I'm diving into!
 
 My dev motto is:
 
