@@ -10,7 +10,7 @@
 
 I am a reckless life-long learner with a college degree... 
 
-I prefer to work on the Frontend, where I shine the most, but I also have very good skills on the Backend and Mobile Development.
+I prefer to work on Frontend Development, where I shine the most, but I also have very good skills on Backend Development.
 
 I am a self-taught developer, with a previous background in healthcare, which has helped develop the discipline needed to face any challenges that come with this new dare I'm diving into!
 
