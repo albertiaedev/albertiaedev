@@ -1,6 +1,8 @@
-# Hello :wave: Welcome to my GitHub profile!
+# Hey there... :wave: 
 
-### My name is Jesus Alberto :metal:
+### You're visiting the web development portfolio of J.A. Hernández
+
+ <br>
  
 ![J.A. Hernández's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalberto18&show_icons=true&theme=gotham)
 
