@@ -1,3 +1,5 @@
+<img src="images/frontend.png" style="width: 100%; height: 200px;" />
+
 # Hey there... :wave: 
 
 ### You're visiting the web development portfolio of J.A. Hernández
@@ -29,6 +31,8 @@ But always developing at heart & fun. :nerd_face:
 ## Here you can see my favorite languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalberto18&layout=compact&langs_count=9&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="images/landing.jpg" style="width: 100%; height: 200px;" />
 
 ## Skills
 
