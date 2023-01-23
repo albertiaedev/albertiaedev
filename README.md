@@ -20,7 +20,7 @@ I am a self-taught developer, with a previous background in healthcare, which ha
 
 My dev motto is:
 
-<strong><em>"A lil bit of frontend here... A lil bit of backend there... Some mobile and AI"</em></strong>
+<strong><em>"A lil bit of frontend here... A lil bit of backend there... Some mobile and UI"</em></strong>
 
 Frontend mostly... :computer:
 
@@ -62,7 +62,7 @@ These guys are my everyday buddies:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<strong><em>"A lil bit of frontend here... A lil bit of backend there... Some mobile and AI"</em></strong> :smile:
+<strong><em>"A lil bit of frontend here... A lil bit of backend there... Some mobile and UI"</em></strong> :smile:
 
 ### Here's a hint of my work:
 
