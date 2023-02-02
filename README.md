@@ -2,7 +2,7 @@
 
 # Hey there... :wave: 
 
-### You're visiting the web development portfolio of J.A. Hernández
+### You're visiting the fullstack development portfolio of J.A. Hernández
 
  <br>
  
