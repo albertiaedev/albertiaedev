@@ -14,7 +14,7 @@
 
 I am a reckless life-long learner with a college degree... 
 
-I'm a Python Developer, where I fell in love with Data Analytics and would love to transition to that field someday soon. Plus, I've developed a special love for UI/UX design thanks to the frequent use of JavaScript in my projects.
+I'm a Frontend Developer, with a little Backend knowledge aside, and I've developed a special love for UI/UX design thanks to the frequent use of JavaScript in my projects.
 
 I am a self-taught developer, with a previous background in healthcare, which has helped develop the discipline needed to face any challenges that come with this new dare I'm diving into!
 
@@ -24,7 +24,7 @@ My dev motto is:
 
 I may use frontend or backend :nerd_face:
 
-But always developing at heart & fun. :nerd_face:
+But always developing at heart & fun :nerd_face:
 
 ## Here you can see my favorite languages
 
