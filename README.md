@@ -14,7 +14,7 @@
 
 I am a reckless life-long learner with a college degree... 
 
-I'm a Frontend Developer, with a little Backend knowledge aside, and I've developed a special love for UI/UX design thanks to the frequent use of JavaScript in my projects.
+I'm a Fullstack Developer, with a solid knowledge of Frontend & Backend aside, and I've developed a special love for UI/UX design thanks to the frequent use of JavaScript in my projects.
 
 I am a self-taught developer, with a previous background in healthcare, which has helped develop the discipline needed to face any challenges that come with this new dare I'm diving into!
 
@@ -24,7 +24,7 @@ My dev motto is:
 
 I may use frontend or backend :nerd_face:
 
-But always developing at heart & fun :nerd_face:
+But I'm always developing at heart & fun :nerd_face:
 
 ## Here you can see my favorite languages
 
@@ -48,6 +48,7 @@ These guys are my everyday buddies, I try to stick to them everyday :nerd_face::
 
 ### Backend:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
