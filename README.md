@@ -2,7 +2,7 @@
 
 # Hey there... :wave: 
 
-### You're visiting the fullstack development portfolio of J.A. Hernández
+### You're visiting the web development portfolio of J.A. Hernández
 
  <br>
  
@@ -14,7 +14,7 @@
 
 I am a reckless life-long learner with a college degree... 
 
-I'm a Fullstack Developer, with a solid knowledge of Frontend & Backend aside, and I've developed a special love for UI/UX design thanks to the frequent use of JavaScript in my projects.
+I'm a Web Developer, with a solid knowledge of Frontend & Backend aside, and I've developed a special love for UI/UX design thanks to the frequent use of JavaScript in my projects.
 
 I am a self-taught developer, with a previous background in healthcare, which has helped develop the discipline needed to face any challenges that come with this new dare I'm diving into!
 
