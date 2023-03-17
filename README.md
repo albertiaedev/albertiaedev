@@ -1,4 +1,4 @@
-<img src="images/frontend.png" style="width: 100%; height: 200px;" />
+<img src="images/frontend.png" style="width: 100%; height: 200px;" alt="SMART DEV BANNER" />
 
 # Hey there... :wave: 
 
@@ -30,7 +30,7 @@ But I'm always developing at heart & fun :nerd_face:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalberto18&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="images/landing.jpg" style="width: 100%; height: 200px;" />
+<img src="images/landing.jpg" style="width: 100%; height: 200px;" alt="SMART DEV BANNER" />
 
 ## Skills
 
