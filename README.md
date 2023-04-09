@@ -2,7 +2,7 @@
 
 # Hey there... :wave: 
 
-### You're visiting the web development portfolio of Alberto Hernández
+### You're visiting the web development portfolio of Alberto Hernández :star:
 
  <br>
  
@@ -74,8 +74,6 @@ These guys are my everyday buddies, I try to stick to them everyday :nerd_face::
 
 <a href="https://github.com/jesusalberto18/wonderful-tasty-recipes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=wonderful-tasty-recipes&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Wonderful Tasty Recipes"></a>
 <a href="https://github.com/jesusalberto18/static-portfolio-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=static-portfolio-template&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Static Portfolio Template"></a>
-
-And check out more on :star: <a href="https://frontendsmartdev.netlify.app/">SMART DEV</a> :star:
 
 ### If you like my work, you can sponsor me here:
 
