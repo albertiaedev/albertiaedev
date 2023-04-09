@@ -6,29 +6,11 @@
 
  <br>
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalberto18&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalberto18&show_icons=true&theme=gotham)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesusalberto18&theme=gotham)](https://git.io/streak-stats)
-
-## Who am I?
-
-I am a reckless life-long learner with a college degree... 
-
-I'm a Web Developer, with a solid knowledge of Frontend & Backend aside, and I've developed a special love for UI/UX design thanks to the frequent use of JavaScript in my projects.
-
-I am a self-taught developer, with a previous background in healthcare, which has helped develop the discipline needed to face any challenges that come with this new dare I'm diving into!
-
-My dev motto is:
-
-<strong><em>"A lil bit of frontend here... A lil bit of backend there... Some mobile and UI"</em></strong>
-
-I may use frontend or backend :nerd_face:
-
-But I'm always developing at heart & fun :nerd_face:
-
-## Here you can see my favorite languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalberto18&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="images/landing.jpg" style="width: 100%; height: 200px;" alt="SMART DEV BANNER" />
 
