@@ -2,11 +2,11 @@
 
 # Hey there... :wave: 
 
-### You're visiting the web development portfolio of J.A. Hernández
+### You're visiting the web development portfolio of Alberto Hernández
 
  <br>
  
-![J.A. Hernández's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalberto18&show_icons=true&theme=gotham)
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalberto18&show_icons=true&theme=gotham)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesusalberto18&theme=gotham)](https://git.io/streak-stats)
 
