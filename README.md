@@ -88,9 +88,7 @@ And check out more on :star: <a href="https://frontendsmartdev.netlify.app/">SMA
 ### You can follow me on:
 
 <a href="https://www.linkedin.com/in/jesusalberto18/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/_jesusalberto18"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dribbble.com/jesusalberto18"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://public.tableau.com/app/profile/jesusalberto18"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/albertiaetweets"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
