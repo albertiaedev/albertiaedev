@@ -2,7 +2,7 @@
 
 # Hey there... :wave: 
 
-### You're visiting the web & mobile development portfolio of Alberto Hernández :star:
+### You're visiting the  UX web & mobile development portfolio of Alberto Hernández :star:
 
  <br>
  
