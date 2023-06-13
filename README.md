@@ -50,7 +50,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<strong><em>"The programming wizard you've been looking for"</em></strong> :smile:
+<strong><em>"The tech wizard you've been looking for"</em></strong> :smile:
 
 ### Here's a hint of my work:
 
