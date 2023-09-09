@@ -2,7 +2,9 @@
 
 # Hey there... :wave: 
 
-### You're visiting the web & mobile development portfolio of Alberto Hernández :star:
+### You're visiting the fullstack development portfolio of J.A. Hernández :star:
+
+### Here you may see my lifestyle as code :nerd_face:
 
  <br>
  
