@@ -99,7 +99,7 @@
  --->
 (Always needed to buy computer setup)
 
-### Find my services here if you need a UI/UX or Mobile Dev freelancer:
+### You can find my services here if you need a UI/UX or Mobile Dev freelancer:
 
 <a href="https://www.upwork.com/freelancers/~01103d8c9fe7dc954c">
  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
