@@ -64,6 +64,8 @@
 
 <strong><em>"The tech wizard you've been looking for"</em></strong> :smile:
 
+<hr>
+
 ### Here you got my UI/UX Design portfolio
 
 <a href="https://www.dribbble.com/jesusalberto18">
@@ -72,31 +74,45 @@
 
 ### These free templates are a sample of my work:
 
-<a href="https://github.com/jesusalberto18/wordpress-plugins"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=wordpress-plugins&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Wordpress Plugins"></a>
-<a href="https://github.com/jesusalberto18/static-portfolio-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=static-portfolio-template&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Static Portfolio Template"></a>
+<a href="https://github.com/jesusalberto18/wordpress-plugins">
+ <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=wordpress-plugins&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Wordpress Plugins">
+</a>
+<a href="https://github.com/jesusalberto18/static-portfolio-template">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=static-portfolio-template&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Static Portfolio Template">
+</a>
 
 ⭐ STAR & FORK THEM ⭐
 
 ### If you like my work, you can sponsor me here:
 
 <a href="https://www.paypal.com/paypalme/j2al444">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+ <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 </a>
 <br>
 <br>
 <!---
 <a href="https://">
-<img src="https://img.shields.io/badge/Payoneer-D73F03?style=for-the-badge&logo=payoneer&logoColor=white" />
+ <img src="https://img.shields.io/badge/Payoneer-D73F03?style=for-the-badge&logo=payoneer&logoColor=white" />
 </a>
 <br>
 <br>
  --->
 (Always needed to buy computer setup)
 
+### Find my services here if you need a UI/UX or Mobile Dev freelancer:
+
+<a href="https://www.upwork.com/freelancers/~01103d8c9fe7dc954c">
+ <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
+</a>
+
 ### You can follow me on:
 
-<a href="https://www.linkedin.com/in/jesusalberto18/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/albertiaetweets"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jesusalberto18/">
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/albertiaetweets">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
 <br>
 
