@@ -114,6 +114,10 @@
 <a href="https://twitter.com/albertiaetweets">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+<br>
+<a href="https://instagram.com/albertiae.digital">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
 
 <br>
 
