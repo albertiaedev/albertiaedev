@@ -80,13 +80,6 @@
 
 ### These free templates are a sample of my work:
 
-<a href="https://github.com/jesusalberto18/flutter-widgets">
- <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=flutter-widgets&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Flutter Widgets">
-</a>
-<a href="https://github.com/jesusalberto18/react-components">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=react-components&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="React Components">
-</a>
-<br>
 <a href="https://github.com/jesusalberto18/wordpress-plugins">
  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=wordpress-plugins&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Wordpress Plugins">
 </a>
