@@ -113,7 +113,7 @@
 
 ### You can follow me on:
 
-<a href="https://www.linkedin.com/in/jesusalberto18/">
+<a href="https://www.linkedin.com/in/albertiaedev/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br>
