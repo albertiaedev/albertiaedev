@@ -8,11 +8,11 @@
 
  <br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalberto18&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertiaedev&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
  
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalberto18&show_icons=true&theme=gotham)
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertiaedev&show_icons=true&theme=gotham)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesusalberto18&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertiaedev&theme=gotham)](https://git.io/streak-stats)
 
 <img src="images/landing.jpg" style="width: 100%; height: 200px;" alt="SMART DEV BANNER" />
 
@@ -80,11 +80,11 @@
 
 ### These free templates are a sample of my work:
 
-<a href="https://github.com/jesusalberto18/wordpress-plugins">
- <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=wordpress-plugins&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Wordpress Plugins">
+<a href="https://github.com/albertiaedev/wordpress-plugins">
+ <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=albertiaedev&repo=wordpress-plugins&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Wordpress Plugins">
 </a>
-<a href="https://github.com/jesusalberto18/static-portfolio-template">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jesusalberto18&repo=static-portfolio-template&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Static Portfolio Template">
+<a href="https://github.com/albertiaedev/static-portfolio-template">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=albertiaedev&repo=static-portfolio-template&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Static Portfolio Template">
 </a>
 
 ⭐ STAR & FORK THEM ⭐
@@ -126,6 +126,6 @@
 ### CHECK OUT MY PINNED FOR MORE OPEN SOURCE REPOS
 
 <!---
-jesusalberto18/jesusalberto18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+albertiaedev/albertiaedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
