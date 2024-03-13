@@ -105,11 +105,6 @@
  --->
 (Always needed to buy computer setup)
 
-### You can find my services here if you need a UI/UX freelancer:
-
-<a href="https://www.upwork.com/freelancers/~01103d8c9fe7dc954c">
- <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
-</a>
 
 ### You can follow me on:
 
