@@ -1,8 +1,8 @@
-<img src="images/frontend.png" style="width: 100%; height: 200px;" alt="SMART DEV BANNER" />
+<img src="images/software.png" style="width: 100%; height: 200px;" alt="ALBERTIAEDEV BANNER" />
 
 # Hey there... :wave: 
 
-### You're visiting the fullstack development portfolio of Alberto Hernández :star:
+### You're visiting the software development portfolio of Alberto Hernández :star:
 
 ### Here you may see my lifestyle as code :nerd_face:
 
@@ -14,7 +14,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertiaedev&theme=gotham)](https://git.io/streak-stats)
 
-<img src="images/landing.jpg" style="width: 100%; height: 200px;" alt="SMART DEV BANNER" />
+<img src="images/landing.jpg" style="width: 100%; height: 200px;" alt="ALBERTIAEDEV BANNER" />
 
 ## These are my favorite technologies:
 
