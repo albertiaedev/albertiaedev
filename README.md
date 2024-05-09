@@ -99,7 +99,7 @@
 <br>
 
 ### Need help?
-<a href="https://www.upwork.com">
+<a href="https://www.upwork.com/freelancers/~01103d8c9fe7dc954c">
  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </a>
 
