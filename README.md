@@ -8,10 +8,7 @@
 
  <br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertiaedev&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
- 
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertiaedev&show_icons=true&theme=gotham)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertiaedev&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertiaedev&theme=gotham)](https://git.io/streak-stats)
 
 <img src="images/landing.jpg" style="width: 100%; height: 200px;" alt="ALBERTIAEDEV BANNER" />
