@@ -56,17 +56,6 @@
 <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
 
-### These free templates are a sample of my work:
-
-<a href="https://github.com/albertiaedev/wordpress-plugins">
- <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=albertiaedev&repo=wordpress-plugins&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Wordpress Plugins">
-</a>
-<a href="https://github.com/albertiaedev/static-portfolio-template">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=albertiaedev&repo=static-portfolio-template&theme=gotham&bg_color=0c1014&title_color=2aa889&hide_border=false&icon_color=599cab&show_icons=true" alt="Static Portfolio Template">
-</a>
-
-⭐ STAR & FORK THEM ⭐
-
 ### If you like my work, you can sponsor me here:
 
 <a href="https://www.paypal.com/paypalme/j2al444">
@@ -74,13 +63,7 @@
 </a>
 <br>
 <br>
-<!---
-<a href="https://">
- <img src="https://img.shields.io/badge/Payoneer-D73F03?style=for-the-badge&logo=payoneer&logoColor=white" />
-</a>
-<br>
-<br>
- --->
+
 (Always needed to buy computer setup)
 
 
@@ -89,18 +72,12 @@
 <a href="https://www.linkedin.com/in/albertiaedev/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br>
-<a href="https://twitter.com/albertiaetweets">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<br>
 
 ### Need help?
 <a href="https://www.upwork.com/freelancers/~01103d8c9fe7dc954c">
  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </a>
 
-### CHECK OUT MY PINNED FOR MORE OPEN SOURCE REPOS
 
 <!---
 albertiaedev/albertiaedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
