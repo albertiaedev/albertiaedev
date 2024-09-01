@@ -6,13 +6,6 @@
 
 ### Here you may see my lifestyle as code :nerd_face:
 
- <br>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertiaedev&layout=compact&langs_count=10&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albertiaedev&theme=gotham)](https://git.io/streak-stats)
-
-<img src="images/landing.jpg" style="width: 100%; height: 200px;" alt="ALBERTIAEDEV BANNER" />
-
 ## These are my favorite technologies:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -46,38 +39,20 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<strong><em>"I'm the tech wizard you've been looking for"</em></strong> :smile:
-
-<hr>
-
-### Here you got my UI/UX Design portfolio
-
-<a href="https://www.dribbble.com/albertiaedesign">
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
-</a>
-
 ### If you like my work, you can sponsor me here:
 
 <a href="https://www.paypal.com/paypalme/j2al444">
  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 </a>
-<br>
-<br>
 
 (Always needed to buy computer setup)
-
-
 ### You can follow me on:
 
 <a href="https://www.linkedin.com/in/albertiaedev/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-### Need help?
-<a href="https://www.upwork.com/freelancers/~01103d8c9fe7dc954c">
- <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
-</a>
-
+<img src="images/landing.jpg" style="width: 100%; height: 200px;" alt="ALBERTIAEDEV BANNER" />
 
 <!---
 albertiaedev/albertiaedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
