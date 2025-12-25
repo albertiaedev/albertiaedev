@@ -2,7 +2,7 @@
 
 # Hey there... :wave: 
 
-### You're visiting the software development portfolio of Alberto Hernández :star:
+### You're visiting my software development portfolio, so feel welcome :star:
 
 ### Here you may see my lifestyle as code :nerd_face:
 
